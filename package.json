@@ -1,0 +1,23 @@
+{
+  "name": "angelinaexercise",
+  "version": "1.0.0",
+  "description": "",
+  "main": "arrays.js",
+  "scripts": {
+    "test": "mocha --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/koszonetdoktor/js-exercises.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/koszonetdoktor/js-exercises/issues"
+  },
+  "homepage": "https://github.com/koszonetdoktor/js-exercises#readme",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^7.1.1"
+  }
+}
